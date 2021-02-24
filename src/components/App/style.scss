@@ -1,0 +1,33 @@
+.app-bar {
+  padding: 10px 20px;
+}
+.app-body {
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.card {
+  width: 100%;
+  min-height: 150px;
+}
+.card_wrap {
+  width: 270px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.card__add-flight {
+  width: 100%;
+  padding: 63px !important;
+}
+
+.card-title{
+  padding: 10px;
+}
+
+.card-actions {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}

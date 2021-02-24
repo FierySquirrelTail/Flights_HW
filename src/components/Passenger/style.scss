@@ -1,0 +1,16 @@
+.passenger {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(255, 192, 203, 0.4) !important;
+  padding: 8px;
+  margin: 10px;
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+.passenger_input {
+  width: 140px;
+  display: block !important;
+}
